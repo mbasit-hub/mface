@@ -1,0 +1,11 @@
+Package: mface
+Type: Package
+Title: Functional Mixed Model for Sparse Observations
+Version: 0.1.0
+Author: Luo Xiao, Md Abdul Basit
+Maintainer: Luo Xiao <lxiao5@ncsu.edu>
+Description: Provides tools for fitting functional mixed models for sparsely observed functional data.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Imports: refund, lme4, nlme, arm, RLRsim, MASS, MuMIn, ggplot2
